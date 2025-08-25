@@ -1,0 +1,67 @@
+Java 8 features 
+
+1. Functional Programming
+2. JavaScript engine
+3. New API for Date time manipulation
+4. Stream API 
+
+
+Functional interface
+-------------------------------------------
+If interface contains only one abstract method,then it is called as functional interface
+Ex- Runnable,Callable, Comparable
+
+To call lambda expression functional interface is needed 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lambda expression 
+-------------------------------------------
+(parameter list)  ->lambda body
+
+It is an anonymous function 
+1. No name
+2. No modifier
+3. No return type 
+Without Functional interface u cannot use it 
+
+() ->
+{
+
+SYSOUT("Test");
+}
+
+Advantages
+-----------------------
+
+1. reduce lines of code
+2. sequential and parallel execution
+3. to call stream API 
+
+
+Stream API 
+----------------------------------------------
+These stream are related to collection framework 
+To process group of Objects we need to have stream API
+
+
+To reduce line of code
+To reduce redundancy 
+
+
+
+
+
+
+
